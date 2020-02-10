@@ -1,0 +1,11 @@
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/bin/Debug/netcoreapp3.1/LinkedList
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.deps.json
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.json
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.dev.json
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.dll
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.pdb
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csprojAssemblyReference.cache
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfoInputs.cache
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfo.cs
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.dll
+/home/vaclav/RiderProjects/DotNetFirstTask/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.pdb
