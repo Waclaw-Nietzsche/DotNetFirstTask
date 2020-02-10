@@ -1,0 +1,11 @@
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/bin/Debug/netcoreapp3.1/InsertSort
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/bin/Debug/netcoreapp3.1/InsertSort.deps.json
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/bin/Debug/netcoreapp3.1/InsertSort.runtimeconfig.json
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/bin/Debug/netcoreapp3.1/InsertSort.runtimeconfig.dev.json
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/bin/Debug/netcoreapp3.1/InsertSort.dll
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/bin/Debug/netcoreapp3.1/InsertSort.pdb
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/obj/Debug/netcoreapp3.1/InsertSort.csprojAssemblyReference.cache
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/obj/Debug/netcoreapp3.1/InsertSort.AssemblyInfoInputs.cache
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/obj/Debug/netcoreapp3.1/InsertSort.AssemblyInfo.cs
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/obj/Debug/netcoreapp3.1/InsertSort.dll
+/home/vaclav/RiderProjects/DotNetFirstTask/InsertSort/obj/Debug/netcoreapp3.1/InsertSort.pdb

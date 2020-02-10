@@ -17,6 +17,18 @@
         </e>
       </e>
       <e p="DotNetFirstTask.sln" t="IncludeFlat" />
+      <e p="InsertSort" t="IncludeRecursive">
+        <e p="InsertSort.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="InsertSort.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="LinkedList" t="IncludeRecursive">
         <e p="LinkedList.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />

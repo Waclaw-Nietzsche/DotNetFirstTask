@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{D192E1C9-8697-4D3D-8A72-5BAC97D2B2B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSort", "InsertSort\InsertSort.csproj", "{3E856915-0929-4202-BA9B-161C14DE0C15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D192E1C9-8697-4D3D-8A72-5BAC97D2B2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D192E1C9-8697-4D3D-8A72-5BAC97D2B2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D192E1C9-8697-4D3D-8A72-5BAC97D2B2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E856915-0929-4202-BA9B-161C14DE0C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E856915-0929-4202-BA9B-161C14DE0C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E856915-0929-4202-BA9B-161C14DE0C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E856915-0929-4202-BA9B-161C14DE0C15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
