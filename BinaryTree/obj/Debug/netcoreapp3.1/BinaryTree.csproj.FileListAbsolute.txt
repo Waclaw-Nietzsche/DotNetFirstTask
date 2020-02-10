@@ -1,0 +1,11 @@
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.deps.json
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.runtimeconfig.json
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.runtimeconfig.dev.json
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.dll
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/bin/Debug/netcoreapp3.1/BinaryTree.pdb
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.csprojAssemblyReference.cache
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.AssemblyInfoInputs.cache
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.AssemblyInfo.cs
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.dll
+/home/vaclav/RiderProjects/DotNetFirstTask/BinaryTree/obj/Debug/netcoreapp3.1/BinaryTree.pdb
